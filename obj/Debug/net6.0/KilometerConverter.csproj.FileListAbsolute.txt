@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\KilometerConverter\bin\Debug\net6.0\KilometerConverter.exe
+C:\Users\MCA\source\repos\KilometerConverter\bin\Debug\net6.0\KilometerConverter.deps.json
+C:\Users\MCA\source\repos\KilometerConverter\bin\Debug\net6.0\KilometerConverter.runtimeconfig.json
+C:\Users\MCA\source\repos\KilometerConverter\bin\Debug\net6.0\KilometerConverter.dll
+C:\Users\MCA\source\repos\KilometerConverter\bin\Debug\net6.0\KilometerConverter.pdb
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.AssemblyInfo.cs
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.dll
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\refint\KilometerConverter.dll
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.pdb
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\KilometerConverter.genruntimeconfig.cache
+C:\Users\MCA\source\repos\KilometerConverter\obj\Debug\net6.0\ref\KilometerConverter.dll
